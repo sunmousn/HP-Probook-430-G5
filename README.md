@@ -1,4 +1,4 @@
-# HP-Probook-430-G5 By Hackintosh
+# Hackintosh HP-Probook-430-G5 
 HP 430 G5 配置：  
 * CPU：i5 7200U & Intel HD Graphics 620  
 * 主板：HP 8377
