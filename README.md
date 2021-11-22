@@ -28,3 +28,4 @@ HP 430 G5 配置：
 * 这机子用的不多，如有发现其它问题欢迎反馈  
 
 待续。。。
+![截屏2021-11-22 下午12 05 42](https://user-images.githubusercontent.com/35004454/142800854-63d6c3e6-5dcd-40fa-a89f-ee4c89796c02.png)
