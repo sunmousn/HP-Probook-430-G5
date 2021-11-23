@@ -23,9 +23,12 @@ HP 430 G5 配置：
 * 键盘快捷键 
 
 说明： 
+* 支持Big Sur 以及 Montetry 
 * 此EFI可能不会长期维护  
 * USB端口未定制，用着正常懒得搞了 
-* 这机子用的不多，如有发现其它问题欢迎反馈  
+* 这机子用的不多，没怎么测试可能存在其它功能性问题  
 
 待续。。。
 ![截屏2021-11-22 下午12 05 42](https://user-images.githubusercontent.com/35004454/142800854-63d6c3e6-5dcd-40fa-a89f-ee4c89796c02.png)
+![截屏2021-11-23 上午9 32 59](https://user-images.githubusercontent.com/35004454/142959380-6c270210-3394-41b6-ba87-2c51a1588ec6.png)
+
